@@ -1,4 +1,4 @@
-var amntImages = 28;
+var amntImages = 99;
 var rndmNumber = Math.floor(Math.random() * amntImages) + 1;
 var randomImage = `./assets/media/doodles/${rndmNumber}.png`;
 
