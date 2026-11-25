@@ -1,0 +1,7 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    img {
+        max-width: 50%;
+        height: auto;
+    }
+}
